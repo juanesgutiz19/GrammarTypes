@@ -1,0 +1,11 @@
+ABCDSF
+S=ABCD
+A=aAp
+A=#
+B=Bb
+B=b
+C=AF
+D=dDr
+D=#
+F=fFg
+F=#

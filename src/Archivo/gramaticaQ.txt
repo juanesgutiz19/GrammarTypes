@@ -1,0 +1,8 @@
+ABC
+A=aC
+A=bBc
+B=aA
+B=bB
+C=aCc
+C=bBcc
+C=#

@@ -1,0 +1,7 @@
+SBCDE
+S=BaC
+B=fgCDE
+B=#
+C=c
+D=SB
+E=e

@@ -1,0 +1,9 @@
+ABDE
+A=BcD
+A=aE
+B=bAc
+B=#
+D=dBDc
+D=#
+E=a
+E=BD

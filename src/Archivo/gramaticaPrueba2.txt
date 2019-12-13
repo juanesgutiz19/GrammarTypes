@@ -1,0 +1,11 @@
+ABCDE
+A=aBC
+A=DbA
+B=#
+B=bAB
+C=cC
+C=DdB
+D=#
+D=eE
+E=BD
+E=f

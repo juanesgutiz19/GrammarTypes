@@ -1,0 +1,5 @@
+SABC
+S=AB
+B=C
+C=#
+A=#

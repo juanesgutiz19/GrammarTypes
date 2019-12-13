@@ -1,0 +1,7 @@
+SAB
+S=ASB
+S=a
+A=aA
+A=#
+B=bB
+B=#
